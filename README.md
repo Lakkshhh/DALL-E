@@ -1,6 +1,6 @@
-# DALL-E
+# DALL-E Clone
 
-This repository contains the code for a full-stack MERN AI image generation app. The app is a clone of Midjourney and DALL-E, two popular AI image generation tools. The app allows users to enter a prompt and the app will generate an image based on the prompt. The app is built using the MERN stack (MongoDB, Express, React, and Node.js). The app is deployed on Vercel.
+This repository contains the code for a full-stack MERN AI image generation app. The app is a clone of Midjourney and DALL-E, two popular AI image generation tools. The app allows users to enter a prompt and the app will generate an image based on the prompt. The app is built using the MERN stack (MongoDB, Express, React, and Node.js). The app is deployed on Hostinger.
 
 The repository includes the following files and folders:
 
