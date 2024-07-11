@@ -1,10 +1,8 @@
 # DALL-E & Midjourney Clone
 
-Welcome to the GitHub repository for the full-stack MERN AI image generation app with a frontend (client) and backend (server) folder. The app is a clone of Midjourney and DALL-E, two popular AI image generation tools. The app allows users to enter a prompt and the app will generate an image based on the prompt. This repository contains all the necessary code and resources to build and deploy a full-stack web application that harnesses the power of Artificial Intelligence and utilizes OpenAI API and Cloudinary for image generation and management.
+https://lakksh-dall-e.onrender.com/
 
-## Description
-
-The MERN AI Image Generation App is a powerful and exciting project that combines cutting-edge technologies, including the MERN (MongoDB, Express.js, React, and Node.js) stack, OpenAI API, and Cloudinary, to create a Midjourney and DALL-E clone. This application allows users to generate unique and creative images by leveraging the AI capabilities provided by OpenAI's GPT-3 and managing the images using Cloudinary's robust image management platform.
+This website is a clone of Midjourney and DALL-E, two popular AI image generation tools. The website allows users to enter a prompt and the app will generate an unique and creative image based on the prompt by leveraging the AI capabilities provided by OpenAI's GPT-3. This repository contains all the necessary code and resources to build and deploy a full-stack web application that harnesses the power of Artificial Intelligence and utilizes OpenAI API and Cloudinary for image generation and management. This project combines cutting-edge technologies, including the MERN (MongoDB, Express.js, React, and Node.js) stack, OpenAI API, and Cloudinary.
 
 The main features and components of this project include:
 
